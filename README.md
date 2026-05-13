@@ -53,3 +53,10 @@ https://github.com/armanhosenBTechEnthusiast/Sales-Performance-Analysis-Intellig
 | **Slicers** | Dynamic filtering |
 | **Charts (Bar, Donut, Line, Combo)** | Visual analysis |
 
+👨‍💻 Author
+Arman Hosen
+
+BBA in Finance and Banking | Data Enthusiast
+
+Jashore University of Science and Technology
+
